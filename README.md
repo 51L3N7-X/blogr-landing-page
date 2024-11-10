@@ -31,8 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/blogr-landing-page-using-html-css-and-js-uEuPVH-N4)
-- Live Site URL: [Live site URL](https://blogr-landing-page-eight.vercel.app/)
+- Live Site URL: [Live site URL](https://51l3n7-x.github.io/blogr-landing-page/)
 
 ## My process
 
@@ -44,11 +43,6 @@ Users should be able to:
 - Desktop-first workflow then Mobile
 - Vanilla JS for mobile navigation toggle
 
-### What I learned
-
-The dropdown menu is the highlight of my learning while working through this project. This is something I have never worked on before and had no prior knowledge how to go about it. I had to do a little research (Stackover flow to the rescue... lol). At the end, I was a able to complete the dropdown menu using just HTML and CSS- no JS.
-
-I faced a little challenge having a background color and a background image for a parent container. Below is a code snippet of how I was able to achieve it.
 
 ```css
 .header{
@@ -65,14 +59,8 @@ I faced a little challenge having a background color and a background image for 
 }
 ```
 
-### Continued development
-
-While working through this project, I noticed I still needed to perfect using JS for mobile navigation toggle. I believe I can make a smoother transition for the mobile navigation toggle. So, I'll be working on that for the next couple of days.
-
 ## Author
 
-- Website - [Github/Uzoway](https://github.com/uzoway)
-- Frontend Mentor - [@uzoway](https://www.frontendmentor.io/profile/uzoway)
-- Twitter - [@Uzoway_](https://twitter.com/Uzoway_)
+- Website - [Github/51l3n7](https://github.com/51l3n7)
 
 Thanks for checking out this project.
